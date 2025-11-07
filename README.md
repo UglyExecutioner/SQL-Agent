@@ -45,6 +45,9 @@ This project implements a **LangChain Agent** designed to analyze and visualize 
     # OR
     export GEMINI_API_KEY="your-key-here"
     ```
+4. ** Run the server:**
+    ```bash
+    uvicorn main:app --host 0.0.0.0 --port 8005 --reload
 
 -----
 
