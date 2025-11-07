@@ -3,8 +3,10 @@ uvicorn
 langchain
 langchain-community
 sqlalchemy
-pydantic
-langchain-openai
 python-dotenv
 langchain-google-genai
 pymongo
+jinja2
+pandas
+matplotlib
+starlette
